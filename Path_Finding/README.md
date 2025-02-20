@@ -1,4 +1,3 @@
-README
 # Shortest Path Finder
 
 Finds shortest paths between cities using Dijkstra's algorithm.

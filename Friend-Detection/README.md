@@ -1,4 +1,3 @@
-README
 # Friend Detection System
 
 Tool for analyzing direct contacts in a phone call network using graph representation.
@@ -11,6 +10,14 @@ Tool for analyzing direct contacts in a phone call network using graph represent
     ./frienddetector
     
 - Enter phone numbers to find direct contacts.
+        0781
+        0782
+        0783
+        0784
+        0785
+        0786
+        0787
+        0788
 - Enter 'quit' to exit.
 
 The implementation features:
